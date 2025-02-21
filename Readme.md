@@ -1,6 +1,7 @@
 # Typosquatting Detection in Software-Supply-Chains
 
 ![GitHub License](https://img.shields.io/github/license/xMinhx/typosquatting-detection-software-supply-chains)
+![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14907786.svg)
 
 This repository contains the dataset and supplementary materials used in the paper:
 
