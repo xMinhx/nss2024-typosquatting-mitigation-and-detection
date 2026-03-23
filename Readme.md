@@ -8,7 +8,7 @@ This repository contains the dataset and supplementary materials used in the pap
 **You Can’t Touch This: Detecting Typosquatting Packages for Enhanced Malware Prevention in Software Supply Chains**  
 Minh Tien Truong, Luigi Lo Iacono, Nils Gruschka <br>
 Published in *NSS 2024: 18th International Conference on Network and System Security*, 20th November 2024 <br> 
-DOI: [DOI link]
+DOI: [[DOI link](https://link.springer.com/chapter/10.1007/978-981-96-3531-3_8)]
 
 ## Abstract
 
